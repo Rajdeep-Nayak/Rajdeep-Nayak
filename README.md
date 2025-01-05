@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajdeep-Nayak
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning at IIT BHU Varanasi
+- 🌱 I’m currently studying at IIT BHU Varanasi
 
 - 📫 reach me-rajdeep25n@gmail.com 
 
